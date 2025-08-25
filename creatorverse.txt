@@ -1,0 +1,21 @@
+Your mission 🧑‍🚀 is to build a frontend that supports CRUD (create, read, update, and delete) operations on your favorite content creators. Your content creators can be Twitch streamers, YouTube channels, Instagram personalities, TikTok accounts, or similar. Heck, they can even be Mastodon microbloggers.
+
+The purpose of your app is to share at least five creators you think are worth following and give yourself the ability to create, update, and delete creators. Each Creator should have:
+
+a name
+a url (the link to their channel or page)
+a description
+an imageURL that links to a picture of the creator or some of their content
+You must use React to create your app, use PicoCSS to style HTML elements
+Display content creator items in a creative format, like cards instead of a list
+Show an image of each content creator on their content creator card
+
+The app should allow users to
+View all content creators
+View a single content creator
+Visit a content creator's channel or page
+Edit a content creator
+Delete a content creator
+Add a content creator
+
+Use Supabase for the backend
